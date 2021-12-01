@@ -1,5 +1,4 @@
 # M2-Embedded_SEAT-HEAT-MONITOR-AND-CONTROL-SYSTEM
-
  
 ## Embedded C Programming - Seat Heating Application
 ## Activity-1 In Action
@@ -12,4 +11,4 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/Compile.yml/badge.svg)](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4df432132abc420d9218bfddadf311e0)](https://www.codacy.com/gh/dilshadalam68/M2_Embedded_SeatHeatingApplication/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dilshadalam68/M2_Embedded_SeatHeatingApplication&amp;utm_campaign=Badge_Grade)
+|[![CI](https://github.com/sababegums/M2-Embedded_Calculator/actions/workflows/main.yml/badge.svg)](https://github.com/sababegums/M2-Embedded_Calculator/actions/workflows/main.yml)|![cpp](https://img.shields.io/badge/Cppcheck-passing-brightgreen)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5712e6b3bdf34d1b8c8288c8bbd92ced)](https://www.codacy.com/gh/sababegums/M2-Embedded_SEAT-HEAT-MONITOR-AND-CONTROL-SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sababegums/M2-Embedded_SEAT-HEAT-MONITOR-AND-CONTROL-SYSTEM&amp;utm_campaign=Badge_Grade)|
